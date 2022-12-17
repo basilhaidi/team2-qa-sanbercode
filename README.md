@@ -7,3 +7,4 @@ Member Team 2:
 1. Basil Haidi Farizan as Lead Team
 2. Sherry Tria Putri as Member
 3. Yuda Darma as Member
+4. Ryukazu Andara S as Member
