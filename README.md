@@ -15,7 +15,7 @@ Kelompok 2:
 2. Sherry Tria Putri as Member
    a. Text case : Modul recruitment 
    b. Manual : Modul recruitment 
-   c. Automation : sub modul vacancies
+   c. Automation : sub modul vacancies, sub modul candidates
 3. Yuda Darma as Member
    a. Text case : Modul Admin
    b. Manual : Modul Admin
