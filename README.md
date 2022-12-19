@@ -12,6 +12,9 @@ Kelompok 2:
    b. Manual Testing : Modul Login dan PIM
    c. Automation Testing : Modul Login, Modul PIM (Add Employee, Add Empoyee id existing, Delete Employee, Cancel Delete Employee)
 2. Sherry Tria Putri as Member
+   a. Text case : Modul recruitment 
+   b. Manual : Modul recruitment 
+   c. Automation : sub modul vacancies
 3. Yuda Darma as Member
 4. Ryukazu Andara S as Member
    a. Test Case : Modul Leave
