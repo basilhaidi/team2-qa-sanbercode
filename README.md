@@ -4,7 +4,7 @@ Final Project Team 2 Bootcamp QA Sanbercode Batch 40.
 
 Create Automation Testing opensource web apps https://opensource-demo.orangehrmlive.com/
 Test Case Document: https://docs.google.com/spreadsheets/d/16C_yBY7G94Yann-yHPei8drXuAN9Mtlnuvsy3MiAdzw/edit#gid=1570772728
-Record documentation :https://drive.google.com/drive/folders/1FwLNg9eTQmhMaNoLDWq52I5zN7NlFhyH
+
 
 Kelompok 2:
 
