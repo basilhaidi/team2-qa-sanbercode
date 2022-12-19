@@ -17,6 +17,9 @@ Kelompok 2:
    b. Manual : Modul recruitment 
    c. Automation : sub modul vacancies
 3. Yuda Darma as Member
+   a. Text case : Modul Admin
+   b. Manual : Modul Admin
+   c. Automation : Sub Modul Job (Job Titles, Pay Grades, Employment Status, Job Categories), Sub Modul Nationalities
 4. Ryukazu Andara S as Member
    a. Test Case : Modul Leave
    b. Manual Testing : Modul Leave
